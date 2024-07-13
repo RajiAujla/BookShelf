@@ -1,0 +1,4 @@
+# Ignore node_modules across the entire project (optional if handled in subfolders)
+/node_modules/
+
+# Add any other project-wide exclusions here
