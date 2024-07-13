@@ -1,0 +1,6 @@
+Root directory : /Users/rajwinderkaur/Documents/workspace/udemy_projects/BookShelf
+Start a backend server:
+nodemon server.js
+
+Start a Front end server:
+nodemon app.js
